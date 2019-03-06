@@ -7,6 +7,7 @@
   "files.trimTrailingWhitespace": true,
   "files.autoSave": "onFocusChange",
   "editor.cursorBlinking": "solid",
+  "workbench.iconTheme": "material-icon-theme",
   "git.enableSmartCommit": true,
   "editor.autoIndent": true,
   "debug.openExplorerOnEnd": true,
